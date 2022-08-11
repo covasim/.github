@@ -1,0 +1,2 @@
+# .github
+Covasim org description
