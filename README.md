@@ -1,2 +1,3 @@
-# .github
-Covasim org description
+# Covasim
+
+Covasim GitHub org -- WIP
